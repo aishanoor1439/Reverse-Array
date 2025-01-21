@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Reverse Array\bin\Debug\Reverse Array.exe.config
+C:\Users\DELL\source\repos\Reverse Array\bin\Debug\Reverse Array.exe
+C:\Users\DELL\source\repos\Reverse Array\bin\Debug\Reverse Array.pdb
+C:\Users\DELL\source\repos\Reverse Array\obj\Debug\Reverse Array.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Reverse Array\obj\Debug\Reverse Array.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Reverse Array\obj\Debug\Reverse Array.exe
+C:\Users\DELL\source\repos\Reverse Array\obj\Debug\Reverse Array.pdb
